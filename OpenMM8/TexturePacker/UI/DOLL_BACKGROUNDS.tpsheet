@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:8bdb36a003ab118e1230c900c2ce954c:7ce3c4ecd7138dfded018727f562e418:3734ff097c830a56dc7e62e002dd2a91$
+#
+:format=40300
+:texture=DOLL_BACKGROUNDS.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+Doll_Background_1;1;645;175;378; 0.5;0.5; 0;0;0;0; 4;175;0;0;0;0;378;175;378; 2;1;2;3;0;1;3
+Doll_Background_2;178;645;175;378; 0.5;0.5; 0;0;0;0; 4;175;0;0;0;0;378;175;378; 2;1;2;3;0;1;3
+Doll_Background_3;1;265;175;378; 0.5;0.5; 0;0;0;0; 4;175;0;0;0;0;378;175;378; 2;1;2;3;0;1;3
+Doll_Background_4;178;265;175;378; 0.5;0.5; 0;0;0;0; 4;175;0;0;0;0;378;175;378; 2;1;2;3;0;1;3
